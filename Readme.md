@@ -1,5 +1,4 @@
-# huke_Eric
-界面聚合的元胞自动机模拟MATLAB代码
+# 界面聚合的元胞自动机模拟MATLAB代码
 
 * automain 为元胞自动机主函数
 * choosedirection 选择方向函数，主函数调用
